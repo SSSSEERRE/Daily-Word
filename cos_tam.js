@@ -1,1 +1,1 @@
-asdsadasd
+document.write("Hello, world!");
